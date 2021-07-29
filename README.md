@@ -26,6 +26,12 @@
 <img align='left' alt='CSS3' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' />
 <img align='left' alt='Java Script' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' />
 <img align='left' alt='Type Script' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png' />
+<img align='left' alt='Rest API' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/restapi/restapi.png' />
+<img align='left' alt='Material UI' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/materialui/materialui.png' />
+<img align='left' alt='Sass' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png' />
+<img align='left' alt='Sass' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png' />
+<img align='left' alt='Story Book' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png' />
+<img align='left' alt='Unit Tests' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unittests/unittests.png' />
 
 <br />
 <br />
