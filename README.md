@@ -14,6 +14,7 @@
 [<img align='left' alt='zhirkov_petr | linkedin' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][linkedin]
 [<img align='left' alt='zhirkov_petr | vk' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg' />][vk]
 [<img align='left' alt='zhirkov_petr | codewars' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg' />][codewars]
+[<img align='left' alt='zhirkov_petr | gmail' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg' />][gmail]
 
 <br />
 
@@ -34,5 +35,6 @@
 [linkedin]: https://www.linkedin.com/in/zhirkovpetr/
 [vk]: https://vk.com/zhirkov_petr
 [codewars]: https://www.codewars.com/users/zhirkov_petr
+[gmail]: mailto:zhirkovpetr95@gmail.com
 
 
