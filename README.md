@@ -39,4 +39,7 @@
 [codewars]: https://www.codewars.com/users/zhirkov_petr
 [gmail]: mailto:zhirkovpetr95@gmail.com
 
+### GitHub stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhirkovpetr&hide=stars,contribs&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhirkovpetr&layout=compact)
